@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @karentp
 - 👀 I’m interested in Artificial Intelligence, Quantum Computing, Machine Learning & Data Science.
-- 🌱 I’m currently learning Quantum Computing and AI with Azure
 - 💞️ I’m looking to collaborate on Python projects, AI projects, Quantum Computing projects.
 - 📫 How to reach me: tovarparrakaren@gmail.com
 
