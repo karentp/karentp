@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karentp
 - 👀 I’m interested in Artificial Intelligence, Quantum Computing, Machine Learning & Data Science.
-- 📚 Currently Exploring: Google's Stim Quantum Simulator & AI Benchmarking in Industry
+- 📚 Currently Exploring: Google's Stim Quantum Simulator & Agentic AI in Industry
 - 💞️ I’m looking to collaborate on Python projects, AI projects, Quantum Computing projects.
 - 📫 How to reach me: tovarparrakaren@gmail.com
 
