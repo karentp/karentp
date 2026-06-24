@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karentp
-- 👀 I’m interested in Artificial Intelligence, Quantum Computing, Machine Learning & Data Science.
-- 📚 Currently Exploring: Google's Stim Quantum Simulator & Agentic AI in Industry
+- 👀 I’m interested in GenAI, Ethical AI, Quantum Computing, Quantum Error Correction, Quantum Machine Learning
+- 📚 Currently Exploring: Quantum Error Correction with Machine learning & Agentic GenAI with MCP in Industry
 - 💞️ I’m looking to collaborate on Python projects, AI projects, Quantum Computing projects.
 - 📫 How to reach me: tovarparrakaren@gmail.com
 
